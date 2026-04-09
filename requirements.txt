@@ -2,3 +2,4 @@ streamlit>=1.28.0
 DECIMER>=2.4.0
 rdkit>=2023.9.0
 Pillow>=10.0.0
+opencv-python-headless>=4.9.0.80
