@@ -32,8 +32,8 @@ temp_*.jpeg
 .keras/
 .matplotlib/
 
-# Data files (model weights are large)
-.data/
+# Data files (now tracked by Git LFS)
+# .data/ - removed from gitignore, tracked by LFS
 
 # Environment variables
 .env
