@@ -1,4 +1,4 @@
-# quick start
+# 🚀 quick start
 ```python
 git clone https://github.com/jxyuan666/img2smiles
 cd img2smiles
